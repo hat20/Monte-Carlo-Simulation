@@ -16,11 +16,6 @@ here it is, I would be updating it and adding more features to it from time to t
 Added RandomNumbers.java so that one can choose between generating random numbers or inputting it.
 
 
-<b>What more could be done</b>
-
-One could use a file to input/store data.
-
-
 For running this program just follow what the program asks you to do.
 
 <b> Steps for running this code: </b>
