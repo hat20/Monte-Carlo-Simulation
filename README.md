@@ -2,13 +2,24 @@
 
 <b>################## </b>
 
-<b> WORK IN PROGRESS! </b>
+<b> COMPLETED </b>
 
 <b>################## </b>
 
+<b>Edit 1:</b>
 
 Studied Monte Carlo Simulation for the first time today in my Project Management class and felt the urge to code it and so 
-here it is, I would be updating it and adding more features to it from time to time. Stay Tuned 
+here it is, I would be updating it and adding more features to it from time to time.
+
+<b>Edit 2:</b>
+
+Added RandomNumbers.java so that one can choose between generating random numbers or inputting it.
+
+
+<b>What more could be done</b>
+
+One could use a file to input/store data.
+
 
 For running this program just follow what the program asks you to do.
 
